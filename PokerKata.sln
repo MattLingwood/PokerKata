@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerKata", "PokerKata\PokerKata.csproj", "{F9ECCB14-5B0A-487E-8433-A46CA1D8B490}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{5B9DBDFE-2934-4667-A75C-673F36811AD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1AA64F65-D2C2-4071-B26A-0A9AF5F16C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerKataTests", "PokerKataTests\PokerKataTests.csproj", "{6966735D-0DA2-4AA9-90EB-8D993A3360C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9ECCB14-5B0A-487E-8433-A46CA1D8B490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ECCB14-5B0A-487E-8433-A46CA1D8B490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ECCB14-5B0A-487E-8433-A46CA1D8B490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ECCB14-5B0A-487E-8433-A46CA1D8B490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6966735D-0DA2-4AA9-90EB-8D993A3360C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6966735D-0DA2-4AA9-90EB-8D993A3360C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6966735D-0DA2-4AA9-90EB-8D993A3360C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6966735D-0DA2-4AA9-90EB-8D993A3360C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F9ECCB14-5B0A-487E-8433-A46CA1D8B490} = {5B9DBDFE-2934-4667-A75C-673F36811AD7}
+		{6966735D-0DA2-4AA9-90EB-8D993A3360C4} = {1AA64F65-D2C2-4071-B26A-0A9AF5F16C3E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A8A9EB-8DC3-4236-A2F0-480FD298FC28}
+	EndGlobalSection
+EndGlobal
